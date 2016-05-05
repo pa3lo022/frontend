@@ -1,0 +1,120 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.header{
+    background-color: #0F3644;
+}
+.logo{
+    width: 25%;
+    height: 13%;
+    float: left; 
+}
+.redes{
+    width: 25%;
+    height: 13%;
+    float: right;
+    padding: 5%;  
+}
+.cabecera{
+    padding-top: 1%;
+    width: 90%;
+    height: 5em;
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
+.ppaltitulares{
+    background-color: black;
+    color: white;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-top: 2%;
+    font-family: courier;
+}
+.footersocial{
+    background-color: black;
+    color: white;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    font-size: 20px;
+    word-spacing: 34px;
+}
+.footercopyright{
+    background-color: #0F3644;   
+    padding-bottom: 2%;
+    padding-left: 2%;    
+}
+.equipos{
+    -moz-column-count: 30; /* Firefox */
+    column-count: 30;
+    padding: 1%;
+    width: 75%;
+    float: left;
+}
+.buscar{
+    width: 20%;
+    float: right;
+    padding: 8px;
+}
+.cabecera2{
+    float: left;
+    width: 100%;
+}
+.flecha{
+    width: 28px; 
+    height: 28px; 
+    vertical-align: -40%;
+}
+.ppalnoticias{
+    -moz-column-count: 3;
+    column-count: 3;
+    padding: 1%;
+    padding-left: 4%;
+}
+a:link{
+    text-decoration: none;
+    text-align: center;    
+    display: inline-block;
+}
+#linkfooter{
+    color: white;
+    padding-top: 2%;
+}
+.containernotice{
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    padding: 3%;
+    background-color: white;
+    padding-left: 1%;
+}
+#linkbody{
+    color: activecaption;
+    font-weight: 700;
+    padding-top: 3%;
+    display: inline-block;
+    padding-bottom: 7%;
+}
+#imgbody{
+    margin-left: 10%;
+}
+.masnoticias{
+    -moz-column-count: 5;
+    column-count: 5;
+    display: inline-block;
+    text-align: center;
+    padding: 2%;
+}
+.nota{
+    padding-top: 4%;
+}
+.containernota{
+    background-color: azure;
+}
+.figcaption{
+    width: 60%;
+    font-size: small;
+    font-style: italic;
+}
